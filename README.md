@@ -1,3 +1,21 @@
+<h1> Ekran Görüntüleri </h1>
+
+<h5>Yüklü ise</h5>
+<img src="yuklu_ise.png">
+Not: Yüklü ise sorunsuz çalışıyor.
+<br>
+<h5>Yüklü değil ise</h5>
+<img src="yuklu_degil_ise.png">
+Not: "+" lardan dolayı sistemde yüklü olan ve olmaya paket saysını yanlış sayıyor.
+
+
+
+
+
+
+
+<hr>
+
 # teknolojikampi2021
 Açıklab Pardus ve Liman Teknoloji Kampı
 
